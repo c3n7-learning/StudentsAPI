@@ -2,7 +2,7 @@
 
 ## Installation
 ### Database
-Create a new `studentdb` database:
+Create a new `studentdb` MySQL database:
 ```sql
 create database studentdb;
 ```
